@@ -1,9 +1,3 @@
-//----------------------------------------------------------------------------
-// UseGraph.java             by Dale/Joyce/Weems                    Chapter 10
-//
-// Examples of uses of the Graph ADT.
-//----------------------------------------------------------------------------
-
 /*import ch04.queues.*;
 import ch02.stacks.*;
 import ch10.graphs.*;    
